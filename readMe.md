@@ -1,3 +1,4 @@
+
 # Week4 Task
 
 This ptoject talks about 2 different types of layout;Flexbox and Grid.
@@ -31,4 +32,7 @@ This offers a grid-based layout system, with rows and columns, making it easier 
 
 If you have any feedback, please reach out to me at bolarinwaokusany@gmail.com
 
+
+## 🛠 Skills
+Javascript, HTML, CSS...
 
