@@ -19,7 +19,7 @@ This offers a grid-based layout system, with rows and columns, making it easier 
 
 ## Authors
 
-- [@bolar](https://www.github.com/bholar)
+- [@bholar](https://www.github.com/bholar)
 
 
 ## 🔗 Links
